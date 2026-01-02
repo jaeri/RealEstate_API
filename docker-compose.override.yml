@@ -1,0 +1,8 @@
+services:
+  api:
+    ports:
+      - "5000:8080"
+
+  cloudbeaver:
+    ports:
+      - "8978:8978"
